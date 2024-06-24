@@ -5,5 +5,3 @@
 ### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
 
 ### Launch your development career with project-based coaching - https://www.jsmastery.pro
-# AI_ChatBot
-# AI_ChatBot
